@@ -1,0 +1,38 @@
+print: imprime lo que se escribe entre "comillas"
+type() clasifica el dato y si escribimos en la terminal
+dir : podemos ver como podemos nombrar un dato
+input:ingresar datos por la terminal
+Variable: es un nombre simbolico para un valor y puedo guardar cualquier tipo de dato
+ Conventions, no podemos empezar la variable con un numero y se debe separar con un _ o una Mayuscula y existen tipos:
+ *Snake Case  
+ *Camel case 
+ *Pascal Case(mas usada)
+ Si la Variable esta toda en mayuscula es para indicarle a los que estan trabajando en el codigo que el valor no debe cambiar, pero esto no afecta al codigo   
+ Python es un lenguaje dinamico, por lo que puedo reasignar el casi cualquier tipo de dato facilmente
+Boolean(bool):asigma un valor false o true 
+Strings(str): cadenas de texto donde toda letra, espacio es un caracter distinto.
+concatenacion:unir dos strings str + str
+Integer(int) = Numeros Enteros 
+Float(float) = Numeros Decimal 
+list: definir una lista y de cualquier elemento y si no ponemos nada podemos hacer listas vacias
+Colocando los elementos en otro parentisis los agrupamos en una tupla 
+Range: crea rango determinado, con los parametros dados para su estructura
+  ""in:funcion para saber si existe o no un dato en una lista
+Tuples (tuple): lista donde los datos no se pueden cambiar(inmutbale) 
+Set: es una coleccion desordenada y que no tiene un indice {}
+Dictonaries(dict): sirve para agrupar y definir datos con un nombre clave {"color":"morado"}
+  #El primer dato clave(key) 
+  #El siguiente el el valor(value)
+None (NoneType): no asigna ningun valor
+Los Condicionales ayudan a nuestro programar a determinar si una linea se debe ejecutar o no, en la medida que se cumplen una condiciones establecidas usando:
+ *If 
+ *Else
+ *Elif 
+Operadores Logicos:
+  *and 
+  *or
+  *not
+ loop: para que se realicen acciones con una lista o rango de datos repetitivamente o hasta que ua condicion se cumpla 
+ WHILE para hacer un ciclo infinito hasta que cumpla las condiciones
+Las funciones son programas ya creados(codigos)
+crear(def)
